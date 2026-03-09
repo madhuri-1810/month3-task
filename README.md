@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Microservices-Based Social Media Platform
 
 > **Month 3 Project** — Advanced Full Stack Integration  
@@ -159,3 +160,6 @@ social-media-platform/
 - **Due:** April 9, 2026
 - **Version:** Standard (6 services + real-time)
 - **Stack:** Spring Boot 3 + React 18 + Docker + RabbitMQ
+=======
+# month3-task
+>>>>>>> 7e29d146bcc70c64ab6008889bb998e419c581e4
